@@ -40,3 +40,12 @@ D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\bi
 D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.csprojResolveAssemblyReference.cache
 D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.dll
 D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.dll
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.dll
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.dll
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.xml
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.csprojResolveAssemblyReference.cache
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.dll
+D:\Versionning\Parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.pdb

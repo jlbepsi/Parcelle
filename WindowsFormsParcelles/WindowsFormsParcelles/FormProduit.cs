@@ -19,11 +19,6 @@ namespace WindowsFormsParcelles
 
         private void FormProduit_Load(object sender, EventArgs e)
         {
-            //btnTypes.ImageList = FormExploitant.imageList;
-            btnTypes.ImageIndex = 0;
-
-            cbCategorie.SelectedIndex = 0;
-            cbParHectare.SelectedIndex = 0;
         }
     }
 }

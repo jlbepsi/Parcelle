@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CategorieProduit.cs" />
     <Compile Include="EspeceCultivee.cs" />
     <Compile Include="Exploitant.cs" />
     <Compile Include="Gestions\GestionExploitants.cs" />
@@ -50,6 +51,7 @@
     <Compile Include="Gestions\GestionPulverisation.cs" />
     <Compile Include="Gestions\GestionTraitementPhytosanitaire.cs" />
     <Compile Include="Parcelle.cs" />
+    <Compile Include="ProduitPhytosanitaire.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pulverisation.cs" />
     <Compile Include="TraitementEnChamp.cs" />
