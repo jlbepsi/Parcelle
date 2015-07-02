@@ -1,0 +1,42 @@
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.csprojResolveAssemblyReference.cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.csprojResolveAssemblyReference.cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.csprojResolveAssemblyReference.cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.csprojResolveAssemblyReference.cache
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.xml
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.dll
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\ParcelleLibraryJSON.pdb
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.dll
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.dll
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\LibraryUtilitaires.pdb
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\bin\Debug\Newtonsoft.Json.xml
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.csprojResolveAssemblyReference.cache
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.dll
+D:\GitLike\Git-Public\B2\Windows\parcelle\ParcelleLibrary\ParcelleLibraryJSON\obj\Debug\ParcelleLibraryJSON.pdb

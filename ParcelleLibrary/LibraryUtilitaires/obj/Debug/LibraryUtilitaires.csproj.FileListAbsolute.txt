@@ -1,0 +1,13 @@
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.csprojResolveAssemblyReference.cache
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.pdb

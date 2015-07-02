@@ -1,0 +1,57 @@
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.exe.config
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.csprojResolveAssemblyReference.cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormMain.resources
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.Properties.Resources.resources
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.csproj.GenerateResource.Cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormConnexion.resources
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.exe.config
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.exe
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.exe
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.csprojResolveAssemblyReference.cache
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormConnexion.resources
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormMain.resources
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.Properties.Resources.resources
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.csproj.GenerateResource.Cache
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormExploitant.resources
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormProduit.resources
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormCulture.resources
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormEpendage.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.exe.config
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.exe
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.pdb
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.exe
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\WindowsFormsParcelles.pdb
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\Newtonsoft.Json.dll
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\ParcelleLibraryJSON.dll
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\LibraryUtilitaires.dll
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\ParcelleLibraryJSON.pdb
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\Newtonsoft.Json.xml
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\bin\Debug\LibraryUtilitaires.pdb
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.csprojResolveAssemblyReference.cache
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormConnexion.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormCulture.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormEpendage.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormExploitant.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormMain.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormProduit.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.Properties.Resources.resources
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.csproj.GenerateResource.Cache
+D:\GitLike\Git-Public\B2\Windows\parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormParcelle.resources

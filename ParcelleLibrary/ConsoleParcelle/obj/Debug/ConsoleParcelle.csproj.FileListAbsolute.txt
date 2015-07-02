@@ -1,0 +1,46 @@
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.csprojResolveAssemblyReference.cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe.config
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe.config
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.csprojResolveAssemblyReference.cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe.config
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.csprojResolveAssemblyReference.cache
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI-GoogleDrive\Enseignements\Cours\Rentrée 2014\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe.config
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.exe
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.dll
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.pdb
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.xml
+D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.csprojResolveAssemblyReference.cache
