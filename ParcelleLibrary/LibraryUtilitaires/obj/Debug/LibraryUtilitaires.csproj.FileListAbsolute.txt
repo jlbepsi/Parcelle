@@ -11,3 +11,8 @@ D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\Parcel
 D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.csprojResolveAssemblyReference.cache
 D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.dll
 D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.dll
+D:\Versionning\Parcelle\ParcelleLibrary\LibraryUtilitaires\bin\Debug\LibraryUtilitaires.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.csprojResolveAssemblyReference.cache
+D:\Versionning\Parcelle\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.dll
+D:\Versionning\Parcelle\ParcelleLibrary\LibraryUtilitaires\obj\Debug\LibraryUtilitaires.pdb

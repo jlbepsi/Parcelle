@@ -8,12 +8,22 @@ namespace LibraryUtilitaires
     public class ConfigurationManager
     {
 		#region Attributs
-        public static string MAIN_CONFIG = null;
+        private static string _MAIN_CONFIG;
         private static ConfigurationManager config = null;
         private Dictionary<string, string> configurationOptions = new Dictionary<string, string>();
 		#endregion
 
-		#region Propriété
+        #region Propriété
+        public static string MAIN_CONFIG
+        {
+            get { return _MAIN_CONFIG; }
+            set
+            {
+                _MAIN_CONFIG = value;
+                // Reset de la configuration
+                config = null;
+            }
+        }
         public Dictionary<string, string> Options
         {
             get { return configurationOptions; }
@@ -48,6 +58,7 @@ namespace LibraryUtilitaires
             catch (Exception ex)
             {
                 LibraryUtilitaires.Trace.LogManager.GetLogger().Error(ex);
+                throw new System.IO.FileNotFoundException("Le fichier de configuration est introuvable", fileName);
             }
         }
 
