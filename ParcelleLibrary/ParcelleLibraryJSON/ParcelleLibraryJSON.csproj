@@ -51,6 +51,7 @@
     <Compile Include="Gestions\GestionPulverisation.cs" />
     <Compile Include="Gestions\GestionTraitementPhytosanitaire.cs" />
     <Compile Include="Parcelle.cs" />
+    <Compile Include="ParcelleException.cs" />
     <Compile Include="ProduitPhytosanitaire.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pulverisation.cs" />
