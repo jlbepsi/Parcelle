@@ -45,7 +45,4 @@ Temporary Items
 *.dll
 *.pdb
 *.exe
-*.dll
-*.pdb
-*.exe
-*.cache
+*.suo
