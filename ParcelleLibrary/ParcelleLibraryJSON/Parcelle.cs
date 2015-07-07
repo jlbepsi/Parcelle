@@ -42,6 +42,7 @@ namespace ParcelleLibraryJSON
         public DateTime DateSemis { get; set; }
         public double QuantiteRecoltee { get; set; }
 
+        public EspeceCultivee Culture { get; set; }
         public Exploitant Exploitant { get; set; }
 
 
