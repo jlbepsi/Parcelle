@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.IO;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -29,22 +30,35 @@ namespace WindowsFormsParcelles
         public FormMain()
         {
             InitializeComponent();
+            gestion.ConfigFile = Directory.GetCurrentDirectory() + @"\parcelles.config";
         }
 
         private void quitterToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
         }
-
-        private void connexionToolStripMenuItem_Click(object sender, EventArgs e)
+        
+        private void configurationToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            FormConfiguration frm = new FormConfiguration(gestion);
+            if (frm.ShowDialog() == DialogResult.OK)
+            {
+                LoadExploitants();
+            }
         }
 
         
         private void LoadExploitants()
         {
-            gestion.ConfigFile = @"D:\Temp\parcelles.config";
-            gestion.DeserializeFromJSON();
+            try
+            {
+                gestion.DeserializeFromJSON();
+            }
+            catch (ParcelleException ex)
+            {
+                MessageBox.Show(ex.Message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
 
             // Les exploitants
             TreeNode root = new TreeNode("Exploitants", TypeListeExploitant, TypeListeExploitant);
@@ -63,6 +77,20 @@ namespace WindowsFormsParcelles
             }
         }
 
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+            FormConnexion form = new FormConnexion();
+            if (form.ShowDialog() == DialogResult.OK)
+            {
+                // Ajout des données dans le TreeView
+                LoadExploitants();
+
+                this.treeView.Enabled = this.listView.Enabled = true;
+
+            }
+            else
+                this.Close();
+        }
         #region TreeView
         private void treeView_AfterSelect(object sender, TreeViewEventArgs e)
         {
@@ -374,23 +402,6 @@ namespace WindowsFormsParcelles
         }
         #endregion
 
-        private void FormMain_Load(object sender, EventArgs e)
-        {
-            FormConnexion form = new FormConnexion();
-            if (form.ShowDialog() == DialogResult.OK)
-            {
-                // Ajout des données dans le TreeView
-                LoadExploitants();
 
-                this.treeView.Enabled = this.listView.Enabled = true;
-
-            }
-            else
-                this.Close();
-        }
-
-
-        #region TreeView
-        #endregion
     }
 }
