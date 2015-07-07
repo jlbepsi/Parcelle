@@ -78,3 +78,4 @@ D:\Versionning\Parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\Wi
 D:\Versionning\Parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.Properties.Resources.resources
 D:\Versionning\Parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.csproj.GenerateResource.Cache
 D:\Versionning\Parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormGestionProduit.resources
+D:\Versionning\Parcelle\WindowsFormsParcelles\WindowsFormsParcelles\obj\Debug\WindowsFormsParcelles.FormConfiguration.resources

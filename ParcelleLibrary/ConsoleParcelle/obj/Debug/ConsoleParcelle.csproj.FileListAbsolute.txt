@@ -44,3 +44,15 @@ D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\Parcel
 D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.pdb
 D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.xml
 D:\EPSI\Enseignements\B2\EIOD201 - Langage C#  - Tests Unitaires\Exemples\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.csprojResolveAssemblyReference.cache
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe.config
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.exe
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.exe
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\ConsoleParcelle.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.dll
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.dll
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.dll
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\LibraryUtilitaires.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\ParcelleLibraryJSON.pdb
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\bin\Debug\Newtonsoft.Json.xml
+D:\Versionning\Parcelle\ParcelleLibrary\ConsoleParcelle\obj\Debug\ConsoleParcelle.csprojResolveAssemblyReference.cache
