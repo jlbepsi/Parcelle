@@ -25,8 +25,8 @@ namespace ParcelleLibraryJSON
             get { return dosage; }
             set
             {
-                if (value < 1)
-                    throw new Exception("La surface d'une parcelle soit être supérieure à 1");
+                if (value <= 0)
+                    throw new Exception("Le dosage d'une pulvérisation doit être supérieure à 0");
                 else
                     dosage = value;
             }

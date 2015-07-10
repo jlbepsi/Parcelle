@@ -1,0 +1,17 @@
+Formulaire Parcelle
+- Validation des modifs : ne pas griser les boutons
+
+Formulaire Epdendage:
+- Rappel de la parcelle et du traitement
+- Il faut entrer la quantité totale et déduire la qté par surface
+- Griser Type, Produit, qté réelle et date et le bouton "Sauvegarder" si visualisation
+- Renomer bouton "Sauvegarder" -> "Enregistrer"
+
+Séléction de "Exploitants" dans le treeview
+- Affichage du nombre d'exploitants en dessous la listview
+
+Sélection d'un exploitant dans la listview:
+- Afficher un camembert avec les parcelles (en fonction de la surface avec l'espèce cultivée)
+
+Sélection d'une parcelle dans la listview:
+- Afficher un camembert avec les traitements (en fonction de la qté appliquée avec le nombre de pulvérisation)
